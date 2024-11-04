@@ -5,6 +5,7 @@ ZORINOSCTERMINAL is a custom terminal application designed specifically for Linu
 
 Key Features
 Intuitive Interface: ZORINOSCTERMINAL boasts a clean and intuitive design, making it easy for users to navigate and interact with the terminal.
+
 Customizable: Users can customize the appearance and behavior of the terminal to suit their preferences, including themes, fonts, and keyboard shortcuts.
 Enhanced Productivity: ZORINOSCTERMINAL includes a range of productivity-enhancing features, such as syntax highlighting, auto-completion, and search functionality.
 
