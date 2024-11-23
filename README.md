@@ -1,4 +1,4 @@
-ZORINOSCTERMINAL      /       -  A  User   -  Friendly Custom Terminal for Linux Zorin  OS
+ZORINOSCTERMINAL       /        -  A  User   -  Friendly Custom Terminal for Linux Zorin  OS
 
 Overview
 
