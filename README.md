@@ -1,5 +1,5 @@
 
-ZORINOSCTERMIAL     \ /     A User Friendly Custom Terminal for Linux Zorin  OS   
+ZORINOSCTERMIAL     /     A User Friendly Custom Terminal for Linux Zorin  OS   
  
 Overview 
 
