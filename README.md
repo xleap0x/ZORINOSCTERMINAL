@@ -1,5 +1,5 @@
- ZORINOSCTERMIAL     /     A User Friendly Custom Terminal for Linux Zorin  OS   
- 
+ZORINOSCTERMIAL     /     A User Friendly Custom Terminal for Linux Zorin  OS   
+
 Overview
 
 ZORINOSCTERMINAL is a custom terminal application designed specifically for Linux Zorin OS. Our goal is to create a more user-friendly terminal experience, catering to the needs of both new and experienced users alike. With a focus on simplicity, readability, and ease of use, ZORINOSCTERMINAL aims to make the Linux terminal accessible to a wider audience.
