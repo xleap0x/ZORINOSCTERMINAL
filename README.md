@@ -4,7 +4,6 @@ ZORINOSCTERMINAL is a custom terminal application designed specifically for Linu
 
 Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature Key Feature 
 
-
                                   
 Intuitive Interface: ZORINOSCTERMINAL boasts a clean and intuitive design, making it easy for users to navigate and interact with the terminal.
 
