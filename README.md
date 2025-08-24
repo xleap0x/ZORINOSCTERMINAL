@@ -13,3 +13,4 @@ of the terminal to suit their preferences, including themes, fonts, and keyboard
 Enhanced Productivity: ZORINOSCTERMINAL includes a range of productivity-enhancing features, such as syntax highlighting, auto-completion, and search functionality
 
 User-Friendly Commands: We've implemented a set of user-friendly commands that make it easy to perform common terminal tasks, such as file management and package installation..
+A
