@@ -14,3 +14,4 @@ Enhanced Productivity: ZORINOSCTERMINAL includes a range of productivity-enhanci
 
 User-Friendly Commands: We've implemented a set of user-friendly commands that make it easy to perform common terminal tasks, such as file management and package installation/1
 .1221
+.
